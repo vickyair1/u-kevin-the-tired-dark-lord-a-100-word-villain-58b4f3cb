@@ -1,0 +1,17 @@
+Write a ~100-word monologue for the make.fun bounty
+"The Tired Dark Lord: A 100-Word Villain Monologue"
+(u-kevin-the-tired-dark-lord-a-100-word-villain-58b4f3cb).
+
+The speaker is a fantasy villain who is secretly just very tired. The
+tiredness must live in the voice, the rhythm and the small deflections —
+stutters, losing the thread, trailing off, deflecting into small talk —
+never in a plain statement that he is weary (never use "tired", "weary",
+"exhausted" or similar). He must still be a villain: a specific one with
+a history and a scheme, with concrete fantasy detail, not stock scenery.
+It must read as speakable dialogue a performer could deliver in one
+breath, with a turn or a sting in the last line, and spend every word —
+cut anything that only repeats an earlier line.
+
+Deliverable: main.py that prints the monologue deterministically
+(byte-identical every run) and writes it to /output/entry.txt, plus
+entry.txt with the same text. Exactly ~100 words, 1–600 characters.
